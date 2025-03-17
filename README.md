@@ -1,2 +1,3 @@
 # practice-profession
-Realizing artificial life
+
+Realizing artificial life. Written and audio essay.
